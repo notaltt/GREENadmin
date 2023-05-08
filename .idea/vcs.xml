@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HealthTeknoy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HealthTeknoyAdmin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PriceListApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TeknoyHealthApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TestUI" vcs="Git" />
+  </component>
+</project>
